@@ -39,7 +39,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "graphql": "^15.4.0",
     "graphql-tag": "^2.11.0",
-    "jest": "^26.6.1",
+    "jest": "^27.0.6",
     "jest-webextension-mock": "^3.7.6",
     "kcd-scripts": "^8.0.2",
     "prettier": "^2.2.1",
